@@ -4,7 +4,7 @@
 
 int main(){
 char name[20];
-MARINHO
+Frito SDIOASJDO
 printf("Enter Nadsofijsofme ");
 scanf("%s", name);
 printf("Welcome, %s",name);
