@@ -4,6 +4,7 @@
 
 int main(){
 char name[20];
+MARINHO
 printf("Enter Nadsofijsofme ");
 scanf("%s", name);
 printf("Welcome, %s",name);
